@@ -1,5 +1,3 @@
-# CS7641-Supervised-Learning
-
 Assignment 1 - Supervised Learning
 
 Code can be accessed at this Github repository:
